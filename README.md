@@ -1,4 +1,4 @@
-# Hi, I'm Anila John 👋
+# Hi, I'm Anila 👋
 
 Final Year Computer Science Engineering student with experience in developing database-driven web applications using Python, Flask and MySQL.
 
