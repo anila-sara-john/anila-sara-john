@@ -85,12 +85,13 @@ A desktop-based Hangman game developed using Python.
 - Score tracking
 - User-friendly gameplay
 
+<!--
 ## 📈 GitHub Stats
 
 ![Anila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)
-
+-->
 
 ## 📫 Connect With Me
 
