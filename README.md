@@ -44,6 +44,7 @@ My experience includes building career evaluation systems, AI-powered productivi
 
 ### 📚 SmartDay
 🔗 [Repository](https://github.com/anila-sara-john/SmartDay)
+
 An AI-powered academic productivity web application designed to help students organize tasks, analyze workload, and generate personalized study plans.
 
 **Tech Stack:** Python, Flask, MySQL, HTML, CSS, Bootstrap, Google Gemini API
@@ -60,6 +61,7 @@ An AI-powered academic productivity web application designed to help students or
 
 ### 🎯 PathPilot
 🔗 [Repository](https://github.com/anila-sara-john/PathPilot)
+
 A career suitability evaluation web application that helps users assess their suitability for different career paths through structured questionnaires and weighted scoring.
 
 **Tech Stack:** Python, Flask, MySQL, HTML, CSS
@@ -75,6 +77,7 @@ A career suitability evaluation web application that helps users assess their su
 
 ### 🎮 Hangman Game
 🔗 [Repository](https://github.com/anila-sara-john/hangman-game)
+
 A desktop-based Hangman game developed using Python.
 
 **Tech Stack:** Python, Tkinter
@@ -85,13 +88,13 @@ A desktop-based Hangman game developed using Python.
 - Score tracking
 - User-friendly gameplay
 
-<!--
+
 ## 📈 GitHub Stats
 
-![Anila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![Anila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anila-sara-john&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anila-sara-john&layout=compact&theme=default)
+
 
 ## 📫 Connect With Me
 
